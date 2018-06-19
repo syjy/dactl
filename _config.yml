@@ -116,3 +116,5 @@ compress_html:
   profile                 : false
   ignore:
   envs                    : [local]
+
+theme: jekyll-theme-cayman
